@@ -36,6 +36,6 @@
     "webpack-cli": "^3.3.0",
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
     "express-http-proxy": "1.6.0",
-    "http-proxy": "1.18.0"
+    "http-proxy": "1.18.1"
   }
 }
